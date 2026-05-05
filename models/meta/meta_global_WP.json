@@ -1,0 +1,25 @@
+{
+  "method": "WP",
+  "is_trained": true,
+  "r2_score": 0.995828,
+  "mae": 0.003696,
+  "n_samples": 9,
+  "n_features": 3,
+  "feature_names": [
+    "harga_tanah",
+    "fasilitas",
+    "keamanan"
+  ],
+  "trained_at": "2026-05-05T21:26:56.111874",
+  "known_scores": [
+    0.3971,
+    0.3964,
+    0.39,
+    0.3392,
+    0.3348,
+    0.328,
+    0.2752,
+    0.2749,
+    0.2644
+  ]
+}

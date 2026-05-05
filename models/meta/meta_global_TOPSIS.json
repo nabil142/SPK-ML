@@ -1,0 +1,25 @@
+{
+  "method": "TOPSIS",
+  "is_trained": true,
+  "r2_score": 0.926179,
+  "mae": 0.063586,
+  "n_samples": 9,
+  "n_features": 3,
+  "feature_names": [
+    "harga_tanah",
+    "fasilitas",
+    "keamanan"
+  ],
+  "trained_at": "2026-05-05T21:12:33.751970",
+  "known_scores": [
+    0.8041,
+    0.762,
+    0.7517,
+    0.5138,
+    0.5063,
+    0.4987,
+    0.2483,
+    0.238,
+    0.1959
+  ]
+}

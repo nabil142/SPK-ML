@@ -1,0 +1,31 @@
+{
+  "method": "SAW",
+  "is_trained": true,
+  "r2_score": -0.031347,
+  "mae": 0.081501,
+  "n_samples": 15,
+  "n_features": 3,
+  "feature_names": [
+    "fasilitas",
+    "harga_tanah",
+    "jarak_ke_fasilitas_umum"
+  ],
+  "trained_at": "2026-05-05T22:15:16.043714",
+  "known_scores": [
+    0.9427,
+    0.9257,
+    0.9257,
+    0.8841,
+    0.8739,
+    0.8606,
+    0.8392,
+    0.8379,
+    0.7889,
+    0.7863,
+    0.7624,
+    0.73,
+    0.6326,
+    0.6309,
+    0.6227
+  ]
+}

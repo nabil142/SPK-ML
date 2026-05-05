@@ -1,0 +1,25 @@
+{
+  "method": "SMART",
+  "is_trained": true,
+  "r2_score": 0.961938,
+  "mae": 0.064334,
+  "n_samples": 9,
+  "n_features": 3,
+  "feature_names": [
+    "harga_tanah",
+    "fasilitas",
+    "keamanan"
+  ],
+  "trained_at": "2026-05-05T21:12:37.106158",
+  "known_scores": [
+    0.8999,
+    0.8938,
+    0.8938,
+    0.525,
+    0.5076,
+    0.4606,
+    0.1062,
+    0.1062,
+    0.1001
+  ]
+}
